@@ -13,20 +13,20 @@
 <div class="home">
   <div class="buttons">
 
-    <div class="button french">
+    <router-link to="francais" class="button french">
       <img src='../assets/img/pen.png'/>
       <h2>Français</h2>
-    </div>
+    </router-link>
 
-    <div class="button math">
+    <router-link to="math" class="button math">
       <img src='../assets/img/pi.png'/>
       <h2>Mathématique</h2>
-    </div>
+    </router-link>
 
-    <div class="button world">
+    <router-link to="monde" class="button world">
       <img src='../assets/img/world.png'/>
       <h2>Culture</h2>
-    </div>
+    </router-link>
 
   </div>
 </div>
