@@ -1,0 +1,19 @@
+{
+  "phrases":[
+    {"id": 0, "text": "Je m’appelle Emy et mon petit frère s'appelle Owen."},
+    {"id": 1, "text": "Ma maman s'appelle Céline et mon papa s'appelle Vincent."},
+    {"id": 2, "text": "Tati Noémie à un cheval, un rat et un chien."},
+    {"id": 3, "text": "Tonton Gaël et tati Stéphanie ont un fils qui s'appelle Luka."},
+    {"id": 4, "text": "Je suis en CP, Mireille est le nom de ma maîtresse."},
+    {"id": 5, "text": "Je suis en GS, Corine est le nom de ma maîtresse."},
+    {"id": 6, "text": "Je suis en MS, Myriame est le nom de ma maîtresse."},
+    {"id": 7, "text": "Je suis en PS, Françoise est le nom de ma maîtresse."},
+    {"id": 8, "text": "Je m'appelle Owen et ma grande soeur s'appelle Emy."},
+    {"id": 9, "text": "Je vais au multi-sport avec Lucas le mercredi à 15h30."},
+    {"id": 10, "text": "Mon papa joue aux jeux vidéo."},
+    {"id": 11, "text": "Mon papa travail sur l'ordinateur."},
+    {"id": 12, "text": "Mon papa joue de la guitare."},
+    {"id": 13, "text": "Ma maman joue aux jeux de société avec moi et mon petit frère."},
+    {"id": 14, "text": "Ma maman joue aux jeux de société avec moi et ma grande soeur."}
+  ]
+}
